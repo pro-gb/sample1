@@ -1,2 +1,5 @@
 # sample1
-js
+<script>
+  alert("練習");
+</script>  
+  
