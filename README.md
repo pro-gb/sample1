@@ -1,5 +1,11 @@
-# sample1
+<!DOCTYPE html>
+<html>
+<head>
+<title>練習</title>
+</head>
+<body>  
 <script>
-  alert("練習");
+  console.log("練習");
 </script>  
-  
+</body>  
+</html>
